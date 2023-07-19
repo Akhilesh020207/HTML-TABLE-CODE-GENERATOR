@@ -1,4 +1,4 @@
-This code represents an HTML table generator program built using the Svelte framework. The program allows users to input the number of rows and columns they want in the table, and then it generates an HTML table with the specified dimensions. Users can view the generated HTML code and copy it to their clipboard.
+Above code files represents an HTML table generator program built using the Svelte framework. The program allows users to input the number of rows and columns they want in the table, and then it generates an HTML table with the specified dimensions. Users can view the generated HTML code and copy it to their clipboard.
 
 The entire project was done under Alhansat Solutions - IEEE Internship and assumed the design using Figma technology. The program's functionality and appearance were implemented using Svelte, a JavaScript framework for building user interfaces. The end result is a simple and user-friendly HTML table generator that allows users to create tables and get the corresponding HTML code easily.
 
